@@ -1,1 +1,4 @@
 David - Blue
+
+my_name = "Anisha"
+my_favorite_color = "purple"
