@@ -1,0 +1,2 @@
+My_name = David 
+Favorite_color = Blue
